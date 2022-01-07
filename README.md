@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="!" style="width:40px;"/>, I'm Sandeep Varma </h1>
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="!" style="width:40px;"/> I'm Sandeep Varma </h1>
 <img src="https://camo.githubusercontent.com/b68ac8a9fefe0eb84cc5f1c981dac236fa1c3128547e6b519d1560fbcafae4d9/68747470733a2f2f692e6962622e636f2f6b4a52587867302f756e647261772d436f64652d7468696e6b696e672d72652d676b61322e706e67"  alt="img" style="width:900px"/>
 <h2 align="center">A Full Stack Developer in the process.</h2>
 <p float="left" align="center">
