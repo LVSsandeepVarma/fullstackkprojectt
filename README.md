@@ -7,6 +7,12 @@
 <img src="https://camo.githubusercontent.com/cfac92396d0bc5e4f26432c297799688e321251f8b94895627ef3dc2d9304577/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d52656163742d736b79626c7565" alt="react"/>
 <img src="https://camo.githubusercontent.com/2c590647f9cb9ac58222dd2b4873192e88a2c76c044d2f40d82a0590f73eb10b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e2d4e6f64652d677265656e" alt="node"/>
 <img src="https://camo.githubusercontent.com/d87c7ec76fffeab335ea881f4d3ac501d722f066e062df0bf3cfc6e8428af98a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a532d4a6176617363726970742d79656c6c6f77" alt="js"/>
+  <img src="https://i.postimg.cc/prydQJb3/python-1.jpg" alt="python" style="width:60px"/>
+</p>
+<p align="center">
+<img src="https://i.postimg.cc/28GDjBsZ/html.jpg" alt="html" style="width:60px" />
+  <img src="https://i.postimg.cc/g2hHqvGw/css.jpg" alt="css" style="width:60px"/>
+  <img src="https://i.postimg.cc/sgPwCpqk/DSA-3.jpg" alt="dsa"  style="width:60px"/>
 </p>
 <h2 align="center">Languages and tools :</h2>
 <p align="center">
