@@ -8,19 +8,18 @@
 <img src="https://camo.githubusercontent.com/2c590647f9cb9ac58222dd2b4873192e88a2c76c044d2f40d82a0590f73eb10b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e2d4e6f64652d677265656e" alt="node"/>
 <img src="https://camo.githubusercontent.com/d87c7ec76fffeab335ea881f4d3ac501d722f066e062df0bf3cfc6e8428af98a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a532d4a6176617363726970742d79656c6c6f77" alt="js"/>
 </p>
-<li>🌱 I’m currently learning Full Stack Web Development</li>
-<li>💬 Ask me about something that goes with JS</li>
-<li>📫 How to reach me sandeeplakham@gmail.com</li>
-<li>⚡ Fun fact World is Ending soon, So better commit your code before you....</li>
 <h2 align="center">Languages and tools :</h2>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hXm8OBLXHzOgRo0p-IHTwG7q56etSJBsuxw-TjrxMVXS-_caSZ82KJfxwlVSe2OYdh0&usqp=CAU" alt="linkedin" style="width:50px"/></a>
   <a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" style="width:50px"  alt="react"/></a>
   <a href="https://expressjs.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbf3wtbrrRZQ9TyYvIwOY2As1I-2f_QPpZMIl4jkXN0H8Itqwa5TbB92k1hk12OaqrAtE&usqp=CAU" alt="express" style="width:50px"/></a>  
+  <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_apac_india_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624347&adgroup=115749713423&gclid=CjwKCAiArOqOBhBmEiwAsgeLmZxO7rNlKpGMoDtpmKf8XyLHeFWVHipzTAb_jIeZCgLKYieIPPNq6hoCpL0QAvD_BwE"><img src="https://miro.medium.com/max/1040/1*Mx3MUKkPENbaIR-vKGeLDw.jpeg" style="width:100px" /></a>
 </p>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" style="width:50px"/></a>
   <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" style="width:35px"/></a>
+    <a href="https://www.python.org/"><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="python" style="width:150px" /></a>
+
 </p>
 <p align="center">
   <a href="https://nodejs.org/en/download/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodejs" style="width:50px" /></a>
