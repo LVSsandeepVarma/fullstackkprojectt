@@ -1,14 +1,35 @@
-<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="!" style="width:40px;"/> I'm Sandeep Varma </h1>
-<img src="https://camo.githubusercontent.com/b68ac8a9fefe0eb84cc5f1c981dac236fa1c3128547e6b519d1560fbcafae4d9/68747470733a2f2f692e6962622e636f2f6b4a52587867302f756e647261772d436f64652d7468696e6b696e672d72652d676b61322e706e67"  alt="img" style="width:900px"/>
-<h2 align="center">A Full Stack Developer in the process.</h2>
-<p float="left" align="center">
-<img src="https://camo.githubusercontent.com/8dda02f227b3338e19ae4081bd5737619c79a003787b92eb129dd462c6a25643/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d2d4d6f6e676f44422d627269676874677265656e" alt="img"/>
-<img src="https://camo.githubusercontent.com/f26f719065f067f8a727dbe23e73f7edce9f7af59ceb306b0d22fb29f27b7243/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f452d457870726573732d626c61636b"/>
-<img src="https://camo.githubusercontent.com/cfac92396d0bc5e4f26432c297799688e321251f8b94895627ef3dc2d9304577/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d52656163742d736b79626c7565" alt="react"/>
-<img src="https://camo.githubusercontent.com/2c590647f9cb9ac58222dd2b4873192e88a2c76c044d2f40d82a0590f73eb10b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e2d4e6f64652d677265656e" alt="node"/>
-<img src="https://camo.githubusercontent.com/d87c7ec76fffeab335ea881f4d3ac501d722f066e062df0bf3cfc6e8428af98a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a532d4a6176617363726970742d79656c6c6f77" alt="js"/>
-  <img src="https://i.postimg.cc/prydQJb3/python-1.jpg" alt="python" style="width:60px"/>
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="!" style="width:40px;"/> I'm Sandeep Varma LVS</h1>
+<img src="https://blogimages.softwaresuggest.com/blog/wp-content/uploads/2019/10/13173411/13-Software-Developer-Skills.jpg" width="90%" height="auto" data-canonical-src="https://i.ibb.co/kJRXxg0/undraw-Code-thinking-re-gka2.png" style="max-width: 100%;"><h2 align="center">A Software Developer</h2>
+<p align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/da9986fdaa38fa7c431cbb6d08b9fa1adcc264ab9d891218913efd4ca20c5563/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d2d4d6f6e676f44422d627269676874677265656e"><img src="https://camo.githubusercontent.com/da9986fdaa38fa7c431cbb6d08b9fa1adcc264ab9d891218913efd4ca20c5563/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d2d4d6f6e676f44422d627269676874677265656e" data-canonical-src="https://img.shields.io/badge/M-MongoDB-brightgreen" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3bf8bdc8b4e3516583170c945bb7f2fb7a1324d22603d7534f40623f627e21d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f452d457870726573732d626c61636b"><img src="https://camo.githubusercontent.com/3bf8bdc8b4e3516583170c945bb7f2fb7a1324d22603d7534f40623f627e21d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f452d457870726573732d626c61636b" data-canonical-src="https://img.shields.io/badge/E-Express-black" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2b3dea73219a73e4b295b7a6afe5fb090b7d5ecd1dc01591998d811acb77f550/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d52656163742d736b79626c7565"><img src="https://camo.githubusercontent.com/2b3dea73219a73e4b295b7a6afe5fb090b7d5ecd1dc01591998d811acb77f550/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d52656163742d736b79626c7565" data-canonical-src="https://img.shields.io/badge/R-React-skyblue" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/63fd32c7be9eae7a66288a71c967d0959102f8d1504e5368430092f66d94adf1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e2d4e6f64652d677265656e"><img src="https://camo.githubusercontent.com/63fd32c7be9eae7a66288a71c967d0959102f8d1504e5368430092f66d94adf1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e2d4e6f64652d677265656e" data-canonical-src="https://img.shields.io/badge/N-Node-green" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ae6f88141bcbe9c5fbe8ea5e5b3403ea6091109ae3364404f9b0528c5e1ea708/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a532d4a6176617363726970742d79656c6c6f77"><img src="https://camo.githubusercontent.com/ae6f88141bcbe9c5fbe8ea5e5b3403ea6091109ae3364404f9b0528c5e1ea708/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a532d4a6176617363726970742d79656c6c6f77" data-canonical-src="https://img.shields.io/badge/JS-Javascript-yellow" style="max-width: 100%;"></a>
+
 </p>
+<div>
+  <ul dir="auto">
+<li>
+<p dir="auto" style="text-align: center;">🌱 I’m a <strong>Software Developer</strong> with strong expertise in MERN stack</p>
+</li>
+<li>
+<p dir="auto" style="text-align: center;">2+ years of experience in Software Developement</p>
+</li>
+    <li>
+      <p dir="auto">🌱 Developed <strong>CRM, Ecommerce, Dashboards, Informative, Static, Marketing </strong Websites and application under 2 years </p>
+    </li>
+        <li>
+      <p dir="auto">💸 Integrated Payment gateways <strong> Razorpay, Stripe, Instamojo, CC avenue, Phonepay</strong Websites and application under 2 years </p>
+    </li>
+<li>
+<p dir="auto" style="text-align: center;">📫 How to reach me <strong><a href="mailto:sandeeplakham@gmail.com">sandeeplakham@gmail.com</a></strong> or make a quick call to 📲  <strong><a style="color:blue" href="tel:+917901003266">+91 7901003266</a></strong></p>
+</li>
+<li>
+<p dir="auto" style="text-align: center;">💬 Ask me about something that goes with <strong>Web Development</strong></p>
+</li>
+</ul>
+</div>
 <p align="center">
 <img src="https://i.postimg.cc/28GDjBsZ/html.jpg" alt="html" style="width:60px" />
   <img src="https://i.postimg.cc/g2hHqvGw/css.jpg" alt="css" style="width:60px"/>
@@ -30,7 +51,10 @@
 <p align="center">
   <a href="https://nodejs.org/en/download/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodejs" style="width:50px" /></a>
   <a href="https://www.mongodb.com/" ><img src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png" alt="mongodb" style="width:70px"/></a>
-  <a href="https://www.postman.com/"><img src="https://www.gartner.com/pi/vendorimages/postman_full-life-cycle-api-management_1633960356020.png" alt="postman" style="width:50px"/></a>
+<!--   <a href="https://www.postman.com/"><img src="https://www.gartner.com/pi/vendorimages/postman_full-life-cycle-api-management_1633960356020.png" alt="postman" style="width:50px"/></a> -->
 </p>
+
+**Experience**
+<p>⏩ Coming Soon ⏩</p>
 
 
